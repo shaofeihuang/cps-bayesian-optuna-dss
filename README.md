@@ -1,6 +1,6 @@
 # Bayesian and Multi-Objective Decision Support for Incident Mitigation in Cyber-Physical Systems - Project Repository
 
-![Framework architecture](figures/architecture.png)
+![Framework architecture](figures/architecture.jpeg)
 
 *(High-resolution PDF version: [`figures/architecture.pdf`](figures/architecture.pdf))*
 
