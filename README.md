@@ -1,4 +1,4 @@
-# Bayesian and Multi-Objective Decision Support for Real-Time Cyber-Physical Incident Mitigation - Project Repository
+# Bayesian and Multi-Objective Decision Support for Incident Mitigation in Cyber-Physical Systems - Project Repository
 
 ## Overview
 
