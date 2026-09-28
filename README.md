@@ -2,7 +2,6 @@
 
 <p align="center">
   <img src="figures/architecture.jpg" alt="Framework architecture" width="50%">
-  *(High-resolution PDF version: [`figures/architecture.pdf`](figures/architecture.pdf))*
 </p>
 
 ## Overview
