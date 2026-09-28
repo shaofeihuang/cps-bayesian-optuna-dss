@@ -2,9 +2,9 @@
 
 ## Overview
 
-This repository implements a Bayesian multi-objective decision support framework for real-time cyber-physical incident mitigation. It integrates AutomationML-based CPS modeling with Bayesian Networks (BNs) to enable probabilistic risk assessment across cybersecurity, reliability, and safety dimensions. The framework supports dynamic threat analysis for critical infrastructure, including industrial control systems, distributed energy resources, and railway signalling systems.
+This repository implements a Bayesian multi-objective decision support framework for cyber-physical incident mitigation. It integrates AutomationML-based CPS modeling with Bayesian Networks (BNs) to enable probabilistic risk assessment across cybersecurity, reliability, and safety dimensions. The framework supports dynamic threat analysis for critical infrastructure, including industrial control systems, distributed energy resources, and railway signalling systems.
 
-This repository accompanies the paper: ["Bayesian and Multi-Objective Decision Support for Real-Time Cyber-Physical Incident Mitigation"](https://arxiv.org/abs/2509.00770).
+This repository accompanies the paper: ["Bayesian and Multi-Objective Decision Support for Incident Mitigation in Cyber-Physical Systems"](https://doi.org/10.1109/ACCESS.2026.3735972).
 
 ---
 
